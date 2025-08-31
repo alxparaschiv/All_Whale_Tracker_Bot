@@ -1,0 +1,4 @@
+python-telegram-bot[extras]==13.7
+urllib3==1.26.18
+certifi
+requests==2.31.0
